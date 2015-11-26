@@ -1,0 +1,2 @@
+# TestProjectWithAllLibraries
+test
